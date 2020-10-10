@@ -57,6 +57,8 @@
   <ItemGroup>
     <Compile Include="Assets\Sripts\Ball.cs" />
     <Compile Include="Assets\Sripts\Player.cs" />
+    <Compile Include="Assets\Sripts\Brick.cs" />
+    <Compile Include="Assets\Sripts\GameManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
